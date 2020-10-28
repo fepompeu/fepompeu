@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pomps10/pomps10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">
-  Hi guys, Felipe here!
+  Hi guys, Felipe here! 👋
 </h2>
 
 ### Programming Languages  :rocket:
@@ -25,4 +23,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   JavaScript | Java | Cloudant | Mongo | DB2 | Node.js | React | Visual Studio Code | Github | Dbeaver | Insomnia | Material-ui
+</p>
+
+<p align="center">  
+  <a
+      href="https://www.linkedin.com/in/felipe-pompeu-belinatto/" 
+      alt="Felipe Pompeu Belinatto Linkedin"
+      target="blank"
+    >
+    <img src="https://github.com/pomps10/pomps10/blob/main/assets/linkedin.png" width=30>
+  </a>
 </p>
