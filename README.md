@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|<img src="https://github.com/pomps10/pomps10/blob/main/js.png" width=60> |
+### Programming Languages  :rocket:
+|<img src="https://github.com/pomps10/pomps10/blob/main/js.png" width=60>> | <img src="https://github.com/pomps10/pomps10/blob/main/java.jpg" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/cloudant.png" width=60> |
+|:---:|:---:|:---:|
