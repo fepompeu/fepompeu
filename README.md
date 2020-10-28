@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <a
       href="https://www.linkedin.com/in/felipe-pompeu-belinatto/" 
       alt="Felipe Pompeu Belinatto Linkedin"
-      target="blank"
+      target="_blank"
     >
     <img src="https://github.com/pomps10/pomps10/blob/main/assets/linkedin.png" width=30>
   </a>
