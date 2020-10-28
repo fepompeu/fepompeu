@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <p align="center">
-  JavaScript | Java | Cloudant | Mongo | DB2 | Node.js | React | Visual Studio Code | Github | Dbeaver | Insomnia | Material-ui
+  JavaScript | Java | Cloudant | Mongo | DB2 | Node.js | React | Visual Studio Code | Github | Dbeaver | Insomnia | Material-ui :brazil:
+
 </p>
 
 <p align="center">  
