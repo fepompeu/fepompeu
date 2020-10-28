@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/pomps10/pomps10/blob/main/js.png" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/java.svg" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/cloudant.png" width=60> |
+|<img src="https://github.com/pomps10/pomps10/blob/main/js.png" width=60> 
+| <img src="https://github.com/pomps10/pomps10/blob/main/java.svg" width=60> 
+| <img src="https://github.com/pomps10/pomps10/blob/main/cloudant.png" width=60> |
 |:---:|:---:|:---:|
