@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2 align="center">
+  Hi guys, Felipe here!
+</h2>
+
 ### Programming Languages  :rocket:
 |<img src="https://github.com/pomps10/pomps10/blob/main/assets/js.png" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/java.svg" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/cloudant.png" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/mongo.png" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/db2.png" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/node.svg" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/react.svg" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/vsc.png" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/git.png" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/dbeaver.jpg" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/insomnia.png" width=60> | <img src="https://github.com/pomps10/pomps10/blob/main/assets/material%20ui.png" width=60>
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
